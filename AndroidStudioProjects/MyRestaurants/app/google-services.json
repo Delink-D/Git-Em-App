@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637690873490",
+    "firebase_url": "https://myrestaurants-f0f17.firebaseio.com",
+    "project_id": "myrestaurants-f0f17",
+    "storage_bucket": "myrestaurants-f0f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637690873490:android:a8c149abcea2aa4e",
+        "android_client_info": {
+          "package_name": "com.example.delink.myrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637690873490-89g8up8liafgd3eqn8f883tsk1e26c3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delink.myrestaurants",
+            "certificate_hash": "3f4834d8983b5e67c38def6bcbb07d08cb40a432"
+          }
+        },
+        {
+          "client_id": "637690873490-74eem92nicftdf014j3m2qch2bjdlpeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnt-UgDEl05w_il5ZvM7KXE9KJYGh04p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637690873490-74eem92nicftdf014j3m2qch2bjdlpeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
